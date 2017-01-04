@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Common configuration shared between console and frontend applications.
+ * Common configuration shared between console and web applications.
  */
 
 return [

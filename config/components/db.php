@@ -2,6 +2,9 @@
 
 /**
  * Database configuration.
+ * You can choose between preconfigured db components (mysql, pgsql) by changing value of DB_DRIVER
+ * env property in your .env file.
+ * @see
  */
 
 use yii\helpers\ArrayHelper;

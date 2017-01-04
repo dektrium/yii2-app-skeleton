@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Frontend app configuration.
+ * Web app configuration.
  */
 
 use yii\helpers\ArrayHelper;

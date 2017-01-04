@@ -2,6 +2,9 @@
 
 /**
  * Cache configuration
+ * You can choose between preconfigured cache backends (dummy, file, apc, db) by changing value of CACHE_DRIVER
+ * env property in your .env file.
+ * @see http://www.yiiframework.com/doc-2.0/guide-caching-overview.html
  */
 
 use yii\helpers\ArrayHelper;

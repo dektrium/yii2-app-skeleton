@@ -2,6 +2,7 @@
 
 /**
  * Url manager configuration.
+ * @see http://www.yiiframework.com/doc-2.0/guide-runtime-routing.html
  */
 
 return [
@@ -18,6 +19,6 @@ return [
         'normalizeTrailingSlash' => true,
     ],
     'rules' => [
-
+        // configure your application url rules here
     ],
 ];

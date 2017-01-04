@@ -2,6 +2,7 @@
 
 /**
  * Logger configuration.
+ * @see http://www.yiiframework.com/doc-2.0/guide-runtime-logging.html
  */
 
 return [
