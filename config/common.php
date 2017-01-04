@@ -23,6 +23,6 @@ return [
         'log' => require(__DIR__ . '/components/log.php')
     ],
     'params' => [
-        
+
     ],
 ];
