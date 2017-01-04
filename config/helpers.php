@@ -68,6 +68,7 @@ if (!function_exists('purify')) {
 if (!function_exists('t')) {
     /**
      * Wrapper for Yii::t.
+     *
      * @param  string $category
      * @param  string $message
      * @param  array  $params
@@ -83,6 +84,7 @@ if (!function_exists('t')) {
 if (!function_exists('param')) {
     /**
      * Helper function for retrieving application params.
+     *
      * @param  string $name
      * @param  mixed  $default
      * @return mixed
@@ -96,6 +98,7 @@ if (!function_exists('param')) {
 if (!function_exists('url')) {
     /**
      * Wrapper for Url::to.
+     *
      * @param  mixed       $url
      * @param  bool|string $scheme
      * @return string

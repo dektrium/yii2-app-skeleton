@@ -22,4 +22,7 @@ return [
         'urlManager' => require(__DIR__ . '/components/url.php'),
         'log' => require(__DIR__ . '/components/log.php')
     ],
+    'params' => [
+        
+    ],
 ];
