@@ -4,6 +4,8 @@
  * Common configuration shared between console and web applications.
  */
 
+require(__DIR__ . '/bootstrap.php');
+
 return [
     'id' => 'my-application',
     'name' => 'My application',
